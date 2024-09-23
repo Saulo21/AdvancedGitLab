@@ -13,6 +13,12 @@ public class Main {
 
         System.out.println("Hello " + greet);
 
+        System.out.println("NEW CHANGES IN FEATURE-ENHANCE-GREETING");
+
+        System.out.println("NEW CHANGES IN FEATURE-ENHANCE-GREETING 2");
+
+        System.out.println("NEW CHANGES IN FEATURE-ENHANCE-GREETING 3");
+
         System.out.println("Hello 2");
     }
 }
