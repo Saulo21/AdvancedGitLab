@@ -12,5 +12,7 @@ public class Main {
         String greet = scanner.nextLine();
 
         System.out.println("Hello " + greet);
+
+        System.out.println("Hello 2");
     }
 }
